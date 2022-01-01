@@ -21,7 +21,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Services</a>
@@ -54,7 +54,7 @@
     <h4 class="card-title">
 How to Become a Video Editor</h4>
     <p class="card-text">Day-to-day, a video editor works closely with their client and/or team to realize the project’s creative vision. They spend most of their time working at a computer using video editing software such as Adobe Premiere or Final Cut Pro..</p>
-    <a href="index.php" class="btn btn-primary">Read More</a>
+    <a href="index.html" class="btn btn-primary">Read More</a>
   </div>
 </div>
 
@@ -80,7 +80,7 @@ How to Pay Off Student Loans Faster in 5 Steps</h4>
     <p class="card-text">The precise answer to this question depends on the type of loan, the total loan amount, and your repayment plan.
 
 Assuming you only have federal student loans.</p>
-    <a href="index.php" class="btn btn-primary">>Read More</a>
+    <a href="index.html" class="btn btn-primary">>Read More</a>
   </div>
 </div>
 
